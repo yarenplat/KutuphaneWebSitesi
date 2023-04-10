@@ -1,0 +1,68 @@
+#search{
+    text-align: right;
+    padding-top: 25px;
+    padding-bottom: 8px;
+    background-color: black;
+   
+}
+#searchh{
+  margin-left: 120px;
+
+}
+
+#topmenu{
+    background-color: black;
+    text-align: right;
+    margin-bottom: 50px;
+    padding: 25px;
+    
+    
+  }
+  #topLinks a{
+    
+    margin-right: 45px;
+    font-size: 14px;
+    font-weight: bold;
+    color: white;
+    text-decoration: none;
+  }
+  #logo {
+    color: rgb(239, 228, 213);
+    text-align: left;
+    font-size: 25px;
+
+  }
+  #TR a{
+    font-weight: bold;
+    text-align: center;
+    margin-left: 150px;
+    font-size: 14px;
+    color:white;
+    text-decoration: none;
+  }
+  #TR i{
+    color:white;
+    margin-left: 150px;
+    
+  }
+
+ 
+  #görsel{
+    background: url(8a894938e339339e6f56ee4c991a7e82.jpg);
+    height: 70vh;
+    background-size: 100% 100%;
+    margin-top: -50px;
+  
+  }
+  #ETKİNLİKLER{
+    padding-top: 20px;
+  }
+  #ETKİNLİKLER a{
+
+    color: rgb(91, 89, 89);
+    font-size: 40px;
+    
+
+  }
+
+ 
